@@ -3,7 +3,7 @@
 # Contacts:
   
   - +37529-374-2000 (Mobile)
-  - vladislav.konchyts@icloud.com (Mail)
+  - vladislav.konchyts@icloud.com (eMail)
   - www.linkedin.com/in/vladislav-konchyts-a4bb5220b (LinkedIn)
   - bitbucket.org/VladKonchyts (Portfolio)
 
