@@ -33,6 +33,7 @@
 In contacts you can find Bitbucket link on my projects.
 
 # Expirience:
+
    - **Accountant** Kapsch Group | Feb 2020 - Apr 2021
      - materials accounting
      - fuel accounting
@@ -47,6 +48,7 @@ In contacts you can find Bitbucket link on my projects.
      - reconciliation acts and etc.
 
 # Education:
+
    - University:
      - **BSU Business Institute** Bachelor's degree, Finance | 2017 - 2019
      - **BNTU** Bachelor's degree, Management | 2010 - 2017
@@ -55,4 +57,6 @@ In contacts you can find Bitbucket link on my projects.
      - **"RS School" online** iOS development | 2021 - now
      - **"Hacking with Swift" online** iOS development | 2021 - now
 
-# English A2
+# Languages:
+
+   - English - Pre-Intermediate A2 
